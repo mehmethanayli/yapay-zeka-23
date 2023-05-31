@@ -1,0 +1,26 @@
+{
+    "id": "B55C97DA",
+    "path": "C:/Mehmet_Hanayli/Yapay_Zeka/titanic/train.csv",
+    "project_path": null,
+    "type": "text",
+    "hash": "1261922131",
+    "contents": "",
+    "dirty": false,
+    "created": 1684834185638.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "54,84",
+        "scrollLine": "52"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1576019832,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1576019832,
+    "read_only": false,
+    "read_only_alternatives": []
+}
